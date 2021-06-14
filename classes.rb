@@ -45,3 +45,4 @@ object = Helloworld.new
 object.print_method
 object2 = Global.new
 object2.print_global
+
