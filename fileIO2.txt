@@ -1,0 +1,4 @@
+ABCDEFI am here 
+This method also returns output line by line. The difference between the method foreach and the method
+ readlines is that the method foreach is associated with a block.
+ However, unlike the method readlines, the method foreach does not return an array. 
