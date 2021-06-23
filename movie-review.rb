@@ -1,5 +1,5 @@
 module Question
-  def q
+  def question 
     var = gets
     puts var
   end
@@ -36,10 +36,10 @@ end
 obj = Review.new 
 obj.review
 loop do 
- obj.q
+ obj.question
  obj.name
  obj.type
  obj.rating
- obj.q
- break if var 
+ obj.question
+ break if obj.question == "no"
 end 
