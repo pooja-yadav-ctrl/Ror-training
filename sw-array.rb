@@ -24,3 +24,4 @@ def find_frequency(sentence, word)
 end
 
 find_frequency('Ruby is The best language in the World','the');
+
